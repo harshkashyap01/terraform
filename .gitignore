@@ -1,0 +1,20 @@
+# Terraform cache
+**/.terraform/
+
+# Terraform state files
+**/terraform.tfstate
+**/terraform.tfstate.backup
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Swap / temp files
+*.swp
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
