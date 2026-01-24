@@ -17,4 +17,5 @@ crash.*.log
 Thumbs.db
 .vscode/
 .idea/
+*.terraform.lock.hcl
 
